@@ -1,0 +1,39 @@
+[33mcommit 1f8f95a47f0dfa1f2ee619576d9899b3a543b949[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kevin carriel <kevincarrielprieto@gmail.com>
+Date:   Tue Nov 1 12:39:45 2022 -0500
+
+    con este cambio agg margen al html
+
+ blog.html      | 33 [32m+++++++++++++++++++++[m[31m------------[m
+ css/estilo.css | 22 [32m++++++++++++++++[m[31m------[m
+ 2 files changed, 37 insertions(+), 18 deletions(-)
+
+[33mcommit 6bc46e7aa3207422af4cf578dc2d0811eeeff5b4[m
+Author: Kevin C <KevinC@.com>
+Date:   Tue Nov 1 10:43:38 2022 -0500
+
+    se agg al txt un comentario para lis
+
+ historia.txt | 8 [32m++++[m[31m----[m
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+[33mcommit b41c2abc4b5e540a92b4b90b0488d61c80e9246b[m
+Author: Kevin C <KevinC@.com>
+Date:   Tue Nov 1 10:40:44 2022 -0500
+
+    modificacion al html y css cambio de color de fondo y agg un input
+
+ blog.html      | 5 [32m+++++[m
+ css/estilo.css | 6 [32m+++++[m[31m-[m
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+
+[33mcommit f5b542096da667e21c6d37b9be0c2a62cbbd42bd[m
+Author: Kevin C <KevinC@.com>
+Date:   Tue Nov 1 10:25:42 2022 -0500
+
+    mi primer alojamiendo con word
+
+ blog.html      | 15 [32m+++++++++++++++[m
+ css/estilo.css |  6 [32m++++++[m
+ historia.txt   |  6 [32m++++++[m
+ 3 files changed, 27 insertions(+)
