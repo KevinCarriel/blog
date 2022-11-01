@@ -1,10 +1,20 @@
-body{
-    color: blue;
-text-align: center;
+body {
+  color: blue;
+  text-align: center;
   font-family: Arial;
-background-color: black;
+  background-color: black;
+  margin: 0;
+  padding: 0;
 }
-#input1{
-background-color: cornflowerblue;
+#contenedor {
+  width: 70%;
+ padding: 1em;
+  border: 2px solid white;
+text-align: center;
+margin: 0 auto;
+}
+
+#input1 {
+  background-color: cornflowerblue;
 }
 
