@@ -2,5 +2,9 @@ body{
     color: blue;
 text-align: center;
   font-family: Arial;
-
+background-color: black;
 }
+#input1{
+background-color: cornflowerblue;
+}
+
