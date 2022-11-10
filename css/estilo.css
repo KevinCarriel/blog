@@ -1,8 +1,9 @@
 body {
-  color: blue;
+  color: rgb(255, 0, 0);
   text-align: center;
   font-family: Arial;
-  background-color: rgb(236, 230, 230);
+
+  background-color: #333;
   margin: 0;
   padding: 0;
 }
@@ -16,5 +17,8 @@ margin: 0 auto;
 
 #input1 {
   background-color: cornflowerblue;
+}
+#cabecera{
+color: white;
 }
 
