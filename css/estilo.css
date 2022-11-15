@@ -24,6 +24,11 @@ background-color: aliceblue;
 color: white;
 background-color: #37488b;
 }
+#footer{
+background: #3788b3;
+color: white;
+padding: 5px;
+}
 
 #cabecera #logo{
 width: 40px;
